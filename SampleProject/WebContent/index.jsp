@@ -9,6 +9,7 @@
 <body>
 <div class="container">
 	<h1>인덱스 페이지 입니다.</h1>
+	<h2>변경사항!</h2>
 </div>
 </body>
 </html>
